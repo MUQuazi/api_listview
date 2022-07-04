@@ -47,7 +47,7 @@ frtchUsers() async {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Listing Users"),
+        title: Text("Listings Users"),
         ),
         body: getBody(),
 
